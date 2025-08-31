@@ -3,6 +3,7 @@ class QuizBrain:
 
     def __init__(self, q_list):
         egkeogkdlfkelgkl;fkoglfkeogjf,fo3tkroj4itjegjvmfkj
+        lckdjeklfjklbmdklvjbdlfkeogj
         self.question_list = q_list
         self.current_question = None
 
